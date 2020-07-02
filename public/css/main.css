@@ -1,0 +1,101 @@
+body {
+    background-color: #f5f5dc;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.bg-navbar {
+    background-color: #2f4f4f;
+}
+
+.arrowMargin {
+    margin-top: -40px!important;
+    margin-left: 25%!important;
+}
+
+.img-logo {
+    width: 100%;
+}
+
+.q-bg {
+    background-color: #2a2b2c;
+    color: #f5f5dc!important;
+}
+
+.img-class {
+    border-radius: 10%;
+}
+
+.section-text {
+    color: #000000!important;
+}
+
+.testimonial-row {
+    width: 50%;
+    margin-left: 25%;
+}
+
+blockquote {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.ceo-image {
+    border-radius: 50%;
+}
+
+.ceo-image1 {
+    border-radius: 30%;
+}
+
+.text-ceo {
+    margin-top: 50px;
+}
+
+.size-font {
+    font-size: 30px;
+}
+
+.whatsapp-color {
+    color: #90ee90;
+}
+
+.facebook-color {
+    color: #0000ff;
+}
+
+.text-ceo1 {
+    margin-top: 100px;
+}
+
+.link-font {
+    font-weight: 500px;
+}
+
+
+.symModal-hover:hover {
+    cursor: pointer;
+    width: 330px;
+}
+
+.symclient-img {
+    width: 200px;
+    border-radius: 50%;
+}
+
+.sym-image-slide {
+    width: 100vw;
+}
+
+
+@media screen and (max-width:576px) {
+    .sym-image-slide-sm {
+        width: 100vw;
+        height: 35vh;
+    }
+}
+
+@media screen and (min-width:576px) {
+    .symclient-img {
+        margin-left: 130px;
+        margin-top: -50px;
+    }
+}
