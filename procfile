@@ -1,1 +1,1 @@
-web: node app.js C:\web\cephas-creation
+web: node app.js
