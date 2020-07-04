@@ -89,8 +89,23 @@ blockquote {
 @media screen and (max-width:576px) {
     .sym-image-slide-sm {
         width: 100vw;
-        height: 35vh;
+        height: 20vh;
     }
+
+    .unfixed-top-sm {
+        position: relative;
+    }
+
+    .sym-logo-sm {
+        width: 85px;
+        margin-left: -15px;
+    }
+
+    .sym-brand-sm {
+        font-size: medium;
+        margin: -10px;
+    }
+
 }
 
 @media screen and (min-width:576px) {
